@@ -1,3 +1,8 @@
+# ** DEPRECATED **
+
+Code was written before the merge.
+To be compatible for the merge, changes must be made.
+
 # Guide to Staking on Ethereum 2.0 (Ubuntu, Prysm)
 
 # Overview
